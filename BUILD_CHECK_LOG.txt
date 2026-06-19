@@ -1,0 +1,25 @@
+
+added 22 packages, and audited 23 packages in 3s
+
+9 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+
+--- npm run build ---
+
+> bg-reddy-dental-mobile-pro@1.0.0 build
+> vite build
+
+[36mvite v8.0.16 [32mbuilding client environment for production...[36m[39m
+[2K
+transforming...[32m✓[39m 16 modules transformed.
+rendering chunks...
+computing gzip size...
+[2mdist/[0m[32mindex.html                 [39m[2m[1m  0.72 kB[0m[0m[2m │ gzip:  0.41 kB[0m
+[2mdist/[0m[2massets/[0m[35mindex-NuFey9jZ.css  [39m[2m[1m 17.01 kB[0m[0m[2m │ gzip:  4.15 kB[0m
+[2mdist/[0m[2massets/[0m[36mindex-DCSqtupJ.js   [39m[2m[1m241.51 kB[0m[0m[2m │ gzip: 72.59 kB[0m
+
+[32m✓ built in 287ms[39m
+
